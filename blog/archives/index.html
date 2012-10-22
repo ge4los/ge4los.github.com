@@ -9,7 +9,7 @@
   <meta name="author" content="Ge4Los">
 
   
-  <meta name="description" content="Blog Archive About Me A little something about me. Recent Posts GitHub Repos Status updating... @Ge4Los on GitHub $.domReady(function(){ if (!window &hellip;">
+  <meta name="description" content=" Blog Archive About Me 个人说明,测试内容 Recent Posts ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -57,6 +57,8 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about-us">About</a></li>
+  
 </ul>
 
 </nav>
@@ -83,43 +85,13 @@
   
     <section>
   <h1>About Me</h1>
-  <p>A little something about me.</p>
+  <p>个人说明,测试内容 </p>
 </section>
-
 <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
   </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/Ge4Los">@Ge4Los</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'Ge4Los',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
