@@ -4,7 +4,7 @@
   <title><![CDATA[Ge4Los`s Blog]]></title>
   <link href="http://Ge4Los.github.com/atom.xml" rel="self"/>
   <link href="http://Ge4Los.github.com/"/>
-  <updated>2012-10-29T22:26:26+08:00</updated>
+  <updated>2012-10-29T22:50:28+08:00</updated>
   <id>http://Ge4Los.github.com/</id>
   <author>
     <name><![CDATA[Ge4Los]]></name>
@@ -20,10 +20,14 @@
     <id>http://Ge4Los.github.com/blog/2012/10/23/hello-world</id>
     <content type="html"><![CDATA[<p>新博客第一篇测试文档。</p>
 
-<p>TODO:
-* 代码引用功能
-* 部分样式位置修改
-* 侧边栏增加显示内容</p>
+<p>TODO:</p>
+
+<ul>
+<li>代码引用功能</li>
+<li>部分样式位置修改</li>
+<li>侧边栏增加显示内容</li>
+</ul>
+
 ]]></content>
   </entry>
   
