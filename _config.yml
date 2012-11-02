@@ -4,7 +4,7 @@
 
 url: http://Ge4Los.github.com
 title: Ge4Los`s Blog
-subtitle: 思考大侠
+subtitle: 思考大侠的临时终端
 author: Ge4Los
 simple_search: http://google.com.hk/search
 description:
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: ge4los
 disqus_show_comment_count: false
 
 # Google Analytics

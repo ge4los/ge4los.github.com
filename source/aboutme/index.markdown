@@ -6,4 +6,12 @@ comments: true
 sharing: true
 footer: true
 ---
-88年,双鱼座
+88年生,双鱼座,伪技术男一名
+
+关注Gvim, Firefox & ARM
+
+[豆瓣][1]
+
+Email:Ge4Los AT gmail.com
+
+[1]:http://www.douban.com/people/GefuhlLos/
