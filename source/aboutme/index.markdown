@@ -8,7 +8,7 @@ footer: true
 ---
 88年生,双鱼座,伪技术男一名
 
-关注Gvim, Firefox & ARM
+关注Gvim, Firefox ,嵌入式
 
 [豆瓣][1]
 
